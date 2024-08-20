@@ -2,10 +2,10 @@
 
 Introduction
 
-This Flutter application fetches real-time coin data from the Ampiy API, displays it in a list, and allows users to search for specific coins.
+This Flutter application fetches real-time coin data from the API, displays it in a list, and allows users to search for specific coins.
 
 Key Features
-  1.Fetches real-time coin data from the Ampiy API.
+  1.Fetches real-time coin data from the API.
   
   2.Displays coin name, current price, and price change.
   
