@@ -4,6 +4,8 @@ Introduction
 
 This Flutter application fetches real-time coin data from the API, displays it in a list, and allows users to search for specific coins.
 
+https://github.com/user-attachments/assets/1b3775b0-7fb2-4683-8bf1-335e2c06385f
+
 Key Features
   1.Fetches real-time coin data from the API.
   
